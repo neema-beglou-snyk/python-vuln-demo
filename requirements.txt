@@ -113,3 +113,4 @@ werkzeug==0.16.1 \
     # via
     #   flask
     #   python-vuln-demo
+#uv export --format requirements.txt
